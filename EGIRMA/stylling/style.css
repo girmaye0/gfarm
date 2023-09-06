@@ -1,0 +1,18 @@
+lgirma{
+    text-align: left;
+    text-align-last: justify;
+    
+}
+body{
+    background-color: brown;
+    text-align: center;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+em{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
