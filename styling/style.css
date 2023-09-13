@@ -1,0 +1,21 @@
+h1,h2{
+    color: red;
+    text-align: center;
+    
+}
+div{
+    background-color: aquamarine;
+}
+img{
+    max-width: 500px;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;   
+   }
+   p{
+    text-align: center;
+   }
+ul{
+        list-style-position: inside;
+        text-align: center;
+   }
